@@ -2,8 +2,6 @@
 //  FitSiddApp.swift
 //  FitSidd
 //
-//  Created by Siddhant Salva on 6/7/26.
-//
 
 import SwiftUI
 import SwiftData
